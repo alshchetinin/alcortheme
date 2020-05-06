@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap");
+body {
+  background-color: #fff;
+  color: #1b262c;
+  font: "Nunito", sans-serif; }
+
+.wp-block {
+  max-width: 1140px; }
+
+.editor-post-title__block .editor-post-title__input {
+  font-family: "Nunito", sans-serif;
+  font-size: 40px; }
+
+h2, h3, h4, p, div {
+  font-family: "Nunito", sans-serif; }
+
+wp-block.is-selected {
+  background-color: #95c12b; }

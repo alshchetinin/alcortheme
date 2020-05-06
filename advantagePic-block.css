@@ -1,0 +1,9 @@
+.advantage-page-item {
+  background-size: cover;
+  background-position: right center;
+  border-radius: 4px;
+  margin-bottom: 20px; }
+  .advantage-page-item__title {
+    padding: 20px 40px 40px 20px;
+    font-size: 16px;
+    line-height: 1.2; }

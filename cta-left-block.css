@@ -1,0 +1,22 @@
+.cta-left-block {
+  padding: 27px 27px 37px;
+  border: 2px solid #f7f7f7;
+  border-radius: 4px;
+  margin-bottom: 20px; }
+  .cta-left-block__title {
+    color: #1b262c;
+    font-size: 14px;
+    font-weight: 800;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #f7f7f7;
+    line-height: 1.2; }
+  .cta-left-block__text {
+    color: #1b262c;
+    font-size: 13px;
+    padding: 24px 0px; }
+  .cta-left-block__button a {
+    background: #95c12b;
+    color: #fff;
+    padding: 10px 10px;
+    font-size: 14px;
+    border-radius: 100px; }

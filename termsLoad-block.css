@@ -1,0 +1,12 @@
+.loan-terms-page {
+  padding: 27px 27px 37px;
+  border: 2px solid #f7f7f7;
+  border-radius: 4px;
+  margin-bottom: 20px; }
+  .loan-terms-page__title {
+    font-size: 15px;
+    color: #1b262c; }
+  .loan-terms-page__item {
+    font-size: 15px;
+    color: #6d92a6;
+    margin: 14px 0px; }
